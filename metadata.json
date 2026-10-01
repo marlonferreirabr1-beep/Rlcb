@@ -1,0 +1,6 @@
+{
+  "name": "RLCB Barbershop - Bio Site Oficial",
+  "description": "Bio Site oficial e premium da RLCB Barbershop. Atendimento por ordem de chegada, tabela de preços, localização e contato direto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
